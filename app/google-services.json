@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "113577086357",
+    "firebase_url": "https://trip-planner-1b31f.firebaseio.com",
+    "project_id": "trip-planner-1b31f",
+    "storage_bucket": "trip-planner-1b31f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113577086357:android:5b3c6acd7a0061dc",
+        "android_client_info": {
+          "package_name": "com.example.meetuuthra.trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113577086357-07u3h1hng2bufo1jr6b9u5k44356f7fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meetuuthra.trip",
+            "certificate_hash": "3a53eb34929931d5bc4c4433f84f5316bcd26ae6"
+          }
+        },
+        {
+          "client_id": "113577086357-mqpoalnjshks2aeackfrq06nf82cqb25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2voqihiMPu88KoAhuF-dD-aK7ymctQsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113577086357-mqpoalnjshks2aeackfrq06nf82cqb25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
